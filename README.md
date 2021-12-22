@@ -1,10 +1,10 @@
 # Hi there, I'm Thomas!
 
-I'm a junior AI Engineer with Master's Degree in Mechatronics Engineering, and I'm always an avid learner and currenly living in South Korea. You can reach me in [Linkedln](https://www.linkedin.com/in/thomas-t-31628a1a1)
+I'm a junior AI Engineer with Master's Degree in Mechatronics Engineering, and I'm always an avid learner. You can reach me in [Linkedln](https://www.linkedin.com/in/thomas-t-31628a1a1)
 
 ![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=thom22&hide=contribs,prs&show_icons=true&theme=radical)
 
-## Tools & Technologies
+## Tools
 ![](https://img.shields.io/badge/Programming-Python-brightgreen?style=plastic&logo=python)
 ![](https://img.shields.io/badge/Programming-R-brightgreen?style=plastic&logo=r)
 ![](https://img.shields.io/badge/Programming-SQL-brightgreen?style=plastic&logo=sql)
@@ -19,11 +19,13 @@ I'm a junior AI Engineer with Master's Degree in Mechatronics Engineering, and I
 ![](https://img.shields.io/badge/IndustryKnowledge-DeepLearning-9cf?style=plastic&logo=ai)
 ![](https://img.shields.io/badge/IndustryKnowledge-MachineLearning-9cf?style=plastic&logo=ai)
 ![](https://img.shields.io/badge/IndustryKnowledge-ComputerVision-9cf?style=plastic&logo=AI)
-![](https://img.shields.io/badge/IndustryKnowledge-ComputerVision-9cf?style=plastic&logo=ai)
+
+
+<!-- ![](https://img.shields.io/badge/IndustryKnowledge-ComputerVision-9cf?style=plastic&logo=ai)
 ![](https://img.shields.io/badge/IndustryKnowledge-CNN-9cf?style=plastic&logo=ai)
 ![](https://img.shields.io/badge/IndustryKnowledge-LSTM-9cf?style=plastic&logo=ai)
 ![](https://img.shields.io/badge/IndustryKnowledge-YOLO-9cf?style=plastic&logo=ai)
-![](https://img.shields.io/badge/IndustryKnowledge-GAN-9cf?style=plastic&logo=ai)
+![](https://img.shields.io/badge/IndustryKnowledge-GAN-9cf?style=plastic&logo=ai) -->
 
 
 
