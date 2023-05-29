@@ -1,6 +1,6 @@
 # Hi there, I'm Thomas!
 
-I'm a junior AI Engineer with Master's Degree in Mechatronics Engineering, and I'm always an avid learner. You can reach me in [Linkedln](https://www.linkedin.com/in/thomas-t-31628a1a1)
+I'm a AI/Data Scientist with Master's degree and an avid lifelong learner. You can reach me in [Linkedln](https://www.linkedin.com/in/thomastslearn229/)
 
 ![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=thom22&hide=contribs,prs&show_icons=true&theme=radical)
 
