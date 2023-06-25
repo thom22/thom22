@@ -1,6 +1,6 @@
 # Hi there, I'm Thomas!
 
-I'm a AI/Data Scientist with Master's degree and an avid lifelong learner. You can reach me in [Linkedln](https://www.linkedin.com/in/thomastslearn229/)
+I'm an AI/Data Scientist with a Master's degree and an avid lifelong learner. You can reach me at [Linkedln](https://www.linkedin.com/in/thomastslearn229/)
 
 ![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=thom22&hide=contribs,prs&show_icons=true&theme=radical)
 
