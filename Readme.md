@@ -2,7 +2,11 @@
 
 I'm an AI/Data Scientist with a Master's degree and an avid lifelong learner. You can reach me at [Linkedln](https://www.linkedin.com/in/thomastslearn229/)
 
-![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=thom22&hide=contribs,prs&show_icons=true&theme=radical)
+- 👨🏽‍💻 Currently working as a Mid-Senior Data Scientist in the corporate sector.
+- 🤝 Open to collaborations on Machine learning or Deep learning projects and technical articles.
+- 📚 Explore my [blogs](https://medium.com/@ThomTechSavvy) on data science and Artificial intelligence.
+
+
 
 ## Tools
 ![](https://img.shields.io/badge/Programming-Python-brightgreen?style=plastic&logo=python)
